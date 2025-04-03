@@ -26,4 +26,3 @@ public class Left_rot {
     }
 
 }
->>>>>>> 76cf465ae1d041780e73e7e4df0b1c9ea2f9b526

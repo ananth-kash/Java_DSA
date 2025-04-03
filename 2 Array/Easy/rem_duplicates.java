@@ -19,5 +19,8 @@ public class rem_duplicates {
         int a[]={2,10,20,20,20,40,50,50};
         rem_duplicates r1= new rem_duplicates();
         System.out.println(r1.removeDuplicates(a));
+        int n1=a.length;
+        for(int i=0;i<n1;i++)
+        System.out.print(a[i]+",");
     }    
 }
